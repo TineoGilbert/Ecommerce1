@@ -9,4 +9,10 @@
 
 # Basic Ecommerce
 
-[](img/Ecom1.png)
+![](public/img/Ecom1.png)
+
+![](public/img/Ecom2.png)
+
+![](public/img/Ecom3.png)
+
+![](public/img/Ecom4.png)
